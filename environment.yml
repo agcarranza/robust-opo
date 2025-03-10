@@ -1,0 +1,19 @@
+name: eg-opo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - rpy2
+  - scikit-learn
+  - seaborn
+  - tqdm
+  # R
+  - r-base
+  - r-essentials
