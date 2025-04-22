@@ -9,7 +9,7 @@ conda env create -f environment.yml
 ### To activate env, run:
 source activate eg-opo
 
-### To install the "grf" and "policytree R packages, run:
+### To install the `grf` and `policytree` R packages, run:
 python install.py
 
 If that does not work, you can directly install these packages in R.
